@@ -1,7 +1,5 @@
-Twitter: 10.62.1-release.0  
-Music: 7.03.52  
 Twitch: 16.9.1  
-YouTube: 19.34.42  
+Photos: 7.6.0.690341299                     
 
 Install [MicroG](https://github.com/ReVanced/GmsCore/releases) to be able to use non-root YouTube or YouTube-Music.  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store from updating YouTube and YouTube-Music.  
