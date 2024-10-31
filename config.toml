@@ -6,29 +6,6 @@ rv-brand = "ReVanced MNML"
 
 # you can use rvmm-config-gen to generate a config
 
-[YouTube]
-build-mode = "both"                                                   
-excluded-patches = "'Seekbar tapping' 'Always autorepeat' 'Enable debugging' 'Client spoof' 'Hide filter bar' 'Hide endscreen cards' 'Hide album cards' 'Hide seekbar' 'Hide cast button' 'Enable tablet layout' 'Premium heading' 'Spoof app version' 'Alternative thumbnails'"
-included-patches = "'Remove player controls background'"
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
-module-prop-name = "yt-rv-mnml"
-
-[Music]
-build-mode = "both"
-app-name = "YouTube-Music"
-excluded-patches = ""
-included-patches = "'Permanent repeat' 'Permanent shuffle'"
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
-module-prop-name = "ytm-rv-mnml"
-arch = "arm64-v8a"
-
-[Twitter]
-build-mode = "apk"
-version = "auto"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
-
 [Twitch]
 build-mode = "apk"
 version = "auto"
@@ -36,3 +13,5 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
 [Photos]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/photos/"
+arch = "arm64-v8a"
+apkmirror-dpi = nodpi
