@@ -1,11 +1,12 @@
-Twitch: 16.9.1  
-Photos: 7.6.0.690341299                     
+Music: 7.29.52  
+Photos: 7.11.0.705590205  
+YouTube: 19.47.53  
 
 Install [MicroG](https://github.com/ReVanced/GmsCore/releases) to be able to use non-root YouTube or YouTube-Music.  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store from updating YouTube and YouTube-Music.  
 
-[Main Repo](https://github.com/NoName-exe/revanced-mnml)  
-CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.16.0.apk  
-Patches: ReVanced/revanced-patches-4.17.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.17.0)  
+[Main Repo](https://github.com/NoName-exe/revanced-mnml)
+  
+CLI: j-hc/revanced-cli-5.0.0-all.jar  
+Patches: ReVanced/patches-5.8.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.8.0)  

@@ -1,6 +1,6 @@
 {
-  "version": "v19.34.42",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/gitshit255/revanced-mnml/releases/download/1/youtube-revanced-mnml-magisk-v19.34.42-all.zip",
+  "version": "v19.47.53 (patches: 5.8.0)",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/gitshit255/revanced-mnml/releases/download/3/youtube-revanced-mnml-magisk-v19.47.53-all.zip",
   "changelog": "https://raw.githubusercontent.com/gitshit255/revanced-mnml/update/build.md"
 }
