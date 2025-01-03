@@ -60,7 +60,7 @@ jobs:
           echo "${DELIM}" >> "$GITHUB_OUTPUT"
           cp -f build.md build.tmp
 
-          echo "RELEASE_NAME=$${rv_patches_ver%%.rvp}" >> $GITHUB_OUTPUT
+          echo "RELEASE_NAME=${rv_patches_ver%%.rvp}" >> $GITHUB_OUTPUT
 
       - name: Upload modules to release
         uses: svenstaro/upload-release-action@v2
